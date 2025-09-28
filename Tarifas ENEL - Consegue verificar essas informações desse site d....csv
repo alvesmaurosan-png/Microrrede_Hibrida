@@ -1,0 +1,10 @@
+Item,Descrição e Unidade,Valores aplicáveis ao Projeto,Fonte
+Tarifa de Energia,Modalidade Horária Azul,,
+,Demanda na Ponta (R$/kW),"100,3",Resolução ANEEL nº 3.477/2025
+,Demanda Fora da Ponta (R$/kW),"17,9",Resolução ANEEL nº 3.477/2025
+,Energia na Ponta (R$/MWh),"444,53",Resolução ANEEL nº 3.477/2025
+,Energia Fora da Ponta (R$/MWh),"278,94",Resolução ANEEL nº 3.477/2025
+,Modalidade Horária Verde,,
+,Demanda Única (R$/kW),"17,9",Resolução ANEEL nº 3.477/2025
+,Energia na Ponta (R$/MWh),"444,53",Resolução ANEEL nº 3.477/2025
+,Energia Fora da Ponta (R$/MWh),"278,94",Resolução ANEEL nº 3.477/2025

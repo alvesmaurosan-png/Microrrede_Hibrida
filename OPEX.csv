@@ -1,0 +1,4 @@
+Categoria,Parâmetro,Valores de Referência,Fontes e Observações
+Geração Solar (FV),Custo de O&M,"~0,5% a 1% do CAPEX anual","Inclui limpeza, inspeções, troca de componentes e mão de obra."
+Armazenamento (Baterias),Custo de O&M,~2% a 4% do CAPEX anual,Considera a manutenção do sistema de gerenciamento de bateria (BMS) e a possível substituição de componentes.
+Hidrogênio Verde,Custo de O&M,"~1,5% a 2% do CAPEX anual","Inclui manutenção do eletrolisador e dos tanques, além da água deionizada para a eletrólise."

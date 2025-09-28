@@ -1,0 +1,9 @@
+Categoria de Parâmetro,Parâmetro de Simulação,Valor ou Distribuição de Probabilidade,Fonte
+Parâmetros da Frota,Número Total de Ônibus,150,Dados fornecidos
+,Distribuição por Modelo,"50 MBB, 50 Scania 520, 50 Scania 416",Dados fornecidos
+Parâmetros de Carga,SoC Médio de Chegada,20% (Assumido),Hipótese baseada em relatórios do setor
+,SoC de Saída,100%,Requisito do serviço
+,Padrão de Chegada,Distribuição de probabilidade simulada. Ex: Pico de chegadas entre 20h e 23h.,Modelagem com base em pesquisas de rotina de frotas
+Parâmetros de Carregador,Potência de Carregamento,150 kW (por carregador),Dados fornecidos
+,Número de Carregadores,"75 (assumido, 1 carregador para cada 2 ônibus, para garantir que 50% possam carregar ao mesmo tempo)",Hipótese para garantir o fator de demanda 2 e evitar gargalos
+Resultado da Simulação,Curva de Carga Horária,Série temporal de dados (em kW ou kWh) para um ano inteiro (8760 horas),Simulação computacional com base nos parâmetros acima

@@ -1,0 +1,7 @@
+# Exclui pastas e arquivos temporários do Colab/Drive
+.config/
+drive/
+sample_data/
+*.gsheet
+*.gdoc
+*.ipynb_checkpoints/
