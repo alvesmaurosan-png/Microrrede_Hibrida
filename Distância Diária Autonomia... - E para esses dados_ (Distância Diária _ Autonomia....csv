@@ -1,6 +1,0 @@
-Categoria,Item,Descrição e Unidade,Valores (Exemplo),Fonte ou Status
-Frota Atual,Frota de Ônibus,Número de veículos por modelo,"50 MBB, 50 Scania 520, 50 Scania 416",Dados fornecidos
-,Energia Nominal Total,Capacidade de bateria por modelo,"588 kWh (MBB), 520 kWh (Scania 520), 416 kWh (Scania 416)",Dados fornecidos
-,Autonomia Média,Distância percorrida com carga total,"265.3 km (MBB), 300 km (Scania 520), 250 km (Scania 416)",Dados fornecidos
-,Distância Diária,Média de km rodados por ônibus,200 km/dia,Dados fornecidos
-Consumo Diário,Consumo de Energia por Ônibus,kWh/dia,"~443.2 kWh (MBB), ~346.7 kWh (Scania 520), ~332.8 kWh (Scania 416)",Cálculo derivado dos dados fornecidos
