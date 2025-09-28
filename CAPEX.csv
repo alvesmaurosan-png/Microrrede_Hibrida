@@ -1,6 +1,0 @@
-Categoria,Parâmetro,Valores de Referência no Brasil,Fontes e Observações
-Geração Solar (FV),Custo de Painel + Instalação,R$ 3.000 a R$ 5.000 por kWp,"O preço varia com a escala do projeto. Para um projeto industrial como o seu, o valor tende a ser menor. Inclui painéis, inversores, estruturas e instalação."
-Armazenamento (Baterias),Custo de Baterias de Lítio (Novas),R$ 2.800 a R$ 4.000 por kWh,Preço médio para sistemas de armazenamento de grande porte.
-Armazenamento (Baterias),Custo de Baterias de Segunda Vida,R$ 500 a R$ 1.000 por kWh,"A literatura técnica projeta um custo significativamente menor, o que justifica a sua inclusão no projeto. Os valores exatos dependem do estado de saúde (SOH) e do custo de re-manufatura."
-Hidrogênio Verde,Eletrolisador,US$ 750 a US$ 1.050 por kW,A conversão para reais pode ser feita usando a cotação atual do dólar.
-Hidrogênio Verde,Tanque de Armazenamento de H₂,Custo por kg pode variar.,O custo do armazenamento é um componente importante.
